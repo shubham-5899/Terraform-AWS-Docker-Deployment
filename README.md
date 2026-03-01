@@ -27,7 +27,7 @@ This project provisions an EC2 instance using Terraform and automatically deploy
    terraform apply
 
 3. Access Application
-   http://<EC2-Public-IP>:3000
+   http://<<EC2-Public-IP>>:3000
 
 ## 📤 Outputs
 
@@ -43,4 +43,7 @@ Terraform automatically prints the EC2 Public IP after deployment.
 
 
 ## Application Running
-![App Screenshots](screenshots/Screenshot 2026-03-02 013313.png)
+![App Screenshots](screenshots/aws-instance.png)
+![App Screenshots](screenshots/terraform-apply.png)
+![App Screenshots](screenshots/docker-ps.png)
+![App Screenshots](screenshots/ip-address.png)
