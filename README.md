@@ -44,6 +44,11 @@ Terraform automatically prints the EC2 Public IP after deployment.
 
 ## Application Running
 ![App Screenshots](screenshots/aws-instance.png)
+
 ![App Screenshots](screenshots/terraform-apply.png)
+
+
 ![App Screenshots](screenshots/docker-ps.png)
+
+
 ![App Screenshots](screenshots/ip-address.png)
